@@ -48,6 +48,7 @@ header{
 .navbar-nav{
     display:inline-flex;
     align-items: center;
+    margin: auto;
     justify-content: center;
  }
  
